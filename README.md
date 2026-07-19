@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hari Om</h1>
 <h3 align="center">A passionate computer science student</h3>
 
-- 🌱 I’m currently learning **Java and Data Structures**
+- 🌱 I’m currently learning **Java and Data Structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hariom738](https://github.com/Hariom738)
 
