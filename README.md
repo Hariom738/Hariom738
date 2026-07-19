@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Hari Om</h1>
-<h3 align="center">A passionate computer science student from India</h3>
+<h3 align="center">A passionate computer science student</h3>
 
 - 🌱 I’m currently learning **Java and Data Structures**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hariom738](https://github.com/Hariom738)
 
-- 📝 I regularly write articles on [https://medium.com/@harigamer85/the-ocean-the-fish-and-the-silent-theft-of-our-time-b44e53f67e7b](https://medium.com/@harigamer85/the-ocean-the-fish-and-the-silent-theft-of-our-time-b44e53f67e7b)
+- 📝 I regularly write articles on  https://medium.com/@harigamer85
 
 - 💬 Ask me about **Python,HTML,CSS**
 
