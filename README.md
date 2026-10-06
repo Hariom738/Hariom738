@@ -3,9 +3,7 @@
 <h3 align="center">A passionate computer science student</h3>
 
 - 🌱 I’m currently learning **Java and Data Structures and Algorithms**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Hariom738](https://github.com/Hariom738)
-
+ 
 - 📝 I regularly write articles on  https://medium.com/@harigamer85
 
 - 💬 Ask me about **Python,HTML,CSS**
